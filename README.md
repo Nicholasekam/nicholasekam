@@ -86,5 +86,7 @@ I build products that turn fragmented systems into structured, data-enabled plat
 ## Contact
 
 LinkedIn: https://www.linkedin.com/in/nicholasekam/
+
 Email: nejiekam@gmail.com
+
 Location: Nigeria
